@@ -1,7 +1,7 @@
 
 # Credit Card Fraudulent Transactions using Generative Adversarial Networks
 
-Contributors: Eric Samikwa & Mohaddeseh Basiri 
+Contributors: Eric Samikwa
 
 ## Running Environment
 
