@@ -1,5 +1,5 @@
 
-# Enhenced Credit Card Fraudulent Transactions using Generative Adversarial Networks
+# Enhenced Credit Card Fraudulent Transactions Detection using Generative Adversarial Networks
 
 Contributors: Eric Samikwa
 
