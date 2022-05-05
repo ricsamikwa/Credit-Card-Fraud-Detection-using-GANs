@@ -1,7 +1,7 @@
 
 # Enhenced Credit Card Fraudulent Transactions Detection using Generative Adversarial Networks
 
-Contributors: Eric Samikwa
+Contributor(s): Eric Samikwa
 
 ## Running Environment
 
@@ -12,7 +12,7 @@ The main packages you need to install are listed as follow
 2. tensorflow 1.3.0
 ```
 
-## DateSet
+## Dataset
 
 The model is evaluated on dataset: credit-card which is included in the data folder
 
